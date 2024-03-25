@@ -8,4 +8,4 @@ The `Materials` repository houses a comprehensive collection of educational mate
 
 ## Website
 
-Here's the link of the website of the course: https://sharif-da.github.io
+Here's the link to the website of the course: https://sharif-da.github.io
